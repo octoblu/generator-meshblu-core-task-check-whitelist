@@ -1,3 +1,10 @@
 language: node_js
 node_js:
-  - '5'
+- '5'
+deploy:
+  provider: npm
+  email: serveradmin@octoblu.com
+  api_key:
+  on:
+    tags: true
+    branches: true
