@@ -25,7 +25,7 @@
   "dependencies": {
     "coffee-script": "^1.10.0",
     "lodash": "^4.6.1",
-    "meshblu-core-manager-whitelist": "^3.4.0"
+    "meshblu-core-manager-whitelist": "^3.5.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
